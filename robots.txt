@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://riverreauk-beep.github.io/ceta-uk/sitemap.xml

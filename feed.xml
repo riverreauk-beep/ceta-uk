@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Clean Energy Technology Alliance</title>
+    <link href="https://riverreauk-beep.github.io/ceta-uk/feed.xml" rel="self" />
+    <link href="https://riverreauk-beep.github.io/ceta-uk" />
+    <updated>2026-11-02T16:05:17+00:00</updated>
+    <author>
+        <name>Sophia</name>
+    </author>
+    <id>https://riverreauk-beep.github.io/ceta-uk</id>
+
+    <entry>
+        <title>Website Test</title>
+        <author>
+            <name>Sophia</name>
+        </author>
+        <link href="https://riverreauk-beep.github.io/ceta-uk/website-test/"/>
+        <id>https://riverreauk-beep.github.io/ceta-uk/website-test/</id>
+        <media:content url="https://riverreauk-beep.github.io/ceta-uk/media/posts/6/IMG_7402.JPEG" medium="image" />
+
+        <updated>2026-11-02T14:18:14+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/6/IMG_7402.JPEG" alt="" />
+                    Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/6/IMG_7402.JPEG" class="type:primaryImage" alt="" /></p>
+                <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Facilisis Cum NuncAenean</title>
+        <author>
+            <name>Sophia</name>
+        </author>
+        <link href="https://riverreauk-beep.github.io/ceta-uk/facilisis-cum-nunc/"/>
+        <id>https://riverreauk-beep.github.io/ceta-uk/facilisis-cum-nunc/</id>
+        <media:content url="https://riverreauk-beep.github.io/ceta-uk/media/posts/5/IMG_7376.JPEG" medium="image" />
+            <category term="Test"/>
+
+        <updated>2026-11-02T14:16:54+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/5/IMG_7376.JPEG" alt="" />
+                    Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/5/IMG_7376.JPEG" class="type:primaryImage" alt="" /></p>
+                <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Editorial 2 for Publii Static CMS</title>
+        <author>
+            <name>Sophia</name>
+        </author>
+        <link href="https://riverreauk-beep.github.io/ceta-uk/editorial-2-for-publii-static-cms/"/>
+        <id>https://riverreauk-beep.github.io/ceta-uk/editorial-2-for-publii-static-cms/</id>
+        <media:content url="https://riverreauk-beep.github.io/ceta-uk/media/posts/4/IMG_7387.JPEG" medium="image" />
+            <category term="Test"/>
+
+        <updated>2026-11-02T14:04:40+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/4/IMG_7387.JPEG" alt="" />
+                    Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://riverreauk-beep.github.io/ceta-uk/media/posts/4/IMG_7387.JPEG" class="type:primaryImage" alt="" /></p>
+                <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

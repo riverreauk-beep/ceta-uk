@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Clean Energy Technology Alliance",
+    "description": "",
+    "home_page_url": "https://riverreauk-beep.github.io/ceta-uk",
+    "feed_url": "https://riverreauk-beep.github.io/ceta-uk/feed.json",
+    "user_comment": "",
+    "icon": "https://riverreauk-beep.github.io/ceta-uk/media/website/CeTA-logo-Wu-Bei-Jing.png",
+    "author": {
+        "name": "Sophia"
+    },
+    "items": [
+        {
+            "id": "https://riverreauk-beep.github.io/ceta-uk/website-test/",
+            "url": "https://riverreauk-beep.github.io/ceta-uk/website-test/",
+            "title": "Website Test",
+            "summary": "Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;",
+            "content_html": "<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>",
+            "image": "https://riverreauk-beep.github.io/ceta-uk/media/posts/6/IMG_7402.JPEG",
+            "author": {
+                "name": "Sophia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-02T14:18:14+00:00",
+            "date_modified": "2026-11-02T14:19:59+00:00"
+        },
+        {
+            "id": "https://riverreauk-beep.github.io/ceta-uk/facilisis-cum-nunc/",
+            "url": "https://riverreauk-beep.github.io/ceta-uk/facilisis-cum-nunc/",
+            "title": "Facilisis Cum NuncAenean",
+            "summary": "Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;",
+            "content_html": "<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>",
+            "image": "https://riverreauk-beep.github.io/ceta-uk/media/posts/5/IMG_7376.JPEG",
+            "author": {
+                "name": "Sophia"
+            },
+            "tags": [
+                   "Test"
+            ],
+            "date_published": "2026-11-02T14:16:54+00:00",
+            "date_modified": "2026-11-02T16:05:17+00:00"
+        },
+        {
+            "id": "https://riverreauk-beep.github.io/ceta-uk/editorial-2-for-publii-static-cms/",
+            "url": "https://riverreauk-beep.github.io/ceta-uk/editorial-2-for-publii-static-cms/",
+            "title": "Editorial 2 for Publii Static CMS",
+            "summary": "Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare&hellip;",
+            "content_html": "<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu Aenean ornare velit lacus, ac varius enim ullamcorper eu </p>",
+            "image": "https://riverreauk-beep.github.io/ceta-uk/media/posts/4/IMG_7387.JPEG",
+            "author": {
+                "name": "Sophia"
+            },
+            "tags": [
+                   "Test"
+            ],
+            "date_published": "2026-11-02T14:04:40+00:00",
+            "date_modified": "2026-11-02T15:17:56+00:00"
+        }
+    ]
+}

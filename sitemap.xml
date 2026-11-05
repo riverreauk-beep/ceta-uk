@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://riverreauk-beep.github.io/ceta-uk/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://riverreauk-beep.github.io/ceta-uk/</loc>
+</url>
+<url>
+<loc>https://riverreauk-beep.github.io/ceta-uk/editorial-2-for-publii-static-cms/</loc>
+<lastmod>2026-11-02T15:17:56+00:00</lastmod>
+<image:image>
+<image:loc>https://riverreauk-beep.github.io/ceta-uk/media/posts/4/IMG_7387.JPEG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://riverreauk-beep.github.io/ceta-uk/facilisis-cum-nunc/</loc>
+<lastmod>2026-11-02T16:05:17+00:00</lastmod>
+<image:image>
+<image:loc>https://riverreauk-beep.github.io/ceta-uk/media/posts/5/IMG_7376.JPEG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://riverreauk-beep.github.io/ceta-uk/page-test/</loc>
+<lastmod>2026-11-02T15:18:10+00:00</lastmod>
+<image:image>
+<image:loc>https://riverreauk-beep.github.io/ceta-uk/media/posts/7/IMG_7393.JPEG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://riverreauk-beep.github.io/ceta-uk/website-test/</loc>
+<lastmod>2026-11-02T14:19:59+00:00</lastmod>
+<image:image>
+<image:loc>https://riverreauk-beep.github.io/ceta-uk/media/posts/6/IMG_7402.JPEG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
